@@ -1,5 +1,5 @@
 # Projeto Intregador Trabalho 1 ✌️
-Muito bem vindo ao meu projeto de Ciências de Dados!
+Muito bem vindo ao meu projeto de Ciências de Dados para Negócios!
 
 ## Primeira atividade adicionando uma imagem 🖼️
 
